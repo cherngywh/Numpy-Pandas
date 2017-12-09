@@ -878,4 +878,6 @@ PopularItem_df.head()
 </table>
 </div>
 
-
+#1. The player numbers in ages are distributed in bell-shape, largest group is 20-24.
+#2. Almost all items are evenly purchased, nothing extremely popular.
+#3, Although male players are almost 5 times more, but indivisual purchases value are almost the same. 
