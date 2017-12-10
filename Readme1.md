@@ -1,3 +1,6 @@
+>**1. The player numbers in ages are distributed in bell-shape, largest group is 20-24**<br />
+>**2. Almost all items are evenly purchased, nothing extremely popular.**<br />
+>**3, Although male players are almost 5 times more, but indivisual purchases value are almost the same.** 
 
 
 ```python
@@ -877,7 +880,3 @@ PopularItem_df.head()
   </tbody>
 </table>
 </div>
-
->**1. The player numbers in ages are distributed in bell-shape, largest group is 20-24**/n
->**2. Almost all items are evenly purchased, nothing extremely popular.**/n
->**3, Although male players are almost 5 times more, but indivisual purchases value are almost the same.** 
