@@ -1,8 +1,8 @@
-# **Data Analytics with Numpy and Pandas**<br />
+# **Data Analysis with Numpy and Pandas**<br />
 ## Analysis
-- The player numbers in ages are distributed in bell-shape, largest group is 20-24.<br />
-- Almost all items are evenly purchased, nothing extremely popular.<br />
-- Although male players are almost 5 times more, but indivisual purchases value are almost the same.
+- Our peak age demographic falls between 20-24 (42%) with secondary groups falling between 15-19 (17.80%) and 25-29 (15.48%).<br />
+- Our players are putting in significant cash during the lifetime of their gameplay. Across all major age and gender demographics, the average purchase for a user is roughly $491.<br />
+- Of the 1163 active players, the vast majority are male (82%). There also exists, a smaller, but notable proportion of female players (16%).
 <br />
 
 ```python
