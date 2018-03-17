@@ -1,8 +1,8 @@
 # **Data Analytics with Numpy and Pandas**<br />
 ## Analysis
->**1. The player numbers in ages are distributed in bell-shape, largest group is 20-24.**<br />
->**2. Almost all items are evenly purchased, nothing extremely popular.**<br />
->**3. Although male players are almost 5 times more, but indivisual purchases value are almost the same.** 
+- The player numbers in ages are distributed in bell-shape, largest group is 20-24.<br />
+- Almost all items are evenly purchased, nothing extremely popular.<br />
+- Although male players are almost 5 times more, but indivisual purchases value are almost the same.
 <br />
 
 ```python
